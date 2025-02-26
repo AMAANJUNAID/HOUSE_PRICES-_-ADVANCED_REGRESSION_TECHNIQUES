@@ -24,21 +24,19 @@ This project predicts house prices using advanced regression techniques on a Kag
 
 ✅ Submission Ready: Generates a CSV file ready for submission.
 
-#How to Run 🖥️
+# How to Run 🖥️
+
 1.Clone the Repository:
 
-bash
 git clone https://github.com/YOUR_USERNAME/House-Prices-Regression.git
 cd House-Prices-Regression
 
 2. Install Dependencies: Make sure you have the required Python packages:
 
-bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 3. Run the Python Script: Execute the script to preprocess data, train the model, make predictions, and visualize results:
 
-bash
 python your_script.py
 
 4. View Results: Check the generated visualizations and submission.csv file in the repository directory.
