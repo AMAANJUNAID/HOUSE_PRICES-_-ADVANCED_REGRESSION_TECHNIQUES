@@ -1,6 +1,5 @@
-# PRODIGY_ML_01
-
 # House Prices - Advanced Regression Techniques 🏡
+
 # Description 📜
 This project predicts house prices using advanced regression techniques on a Kaggle dataset. It leverages machine learning models to estimate property values based on various features like living area, number of bedrooms, bathrooms, and total rooms above ground.
 
